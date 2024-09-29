@@ -11,8 +11,6 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/aniketkatkar-git/aniketkatkar-git.svg?color=blue)](https://github.com/aniketkatkar-git/aniketkatkar-git/graphs/contributors)
 <p align="left" style="color: #ffffff;"> <img src="https://komarev.com/ghpvc/?username=aniketkatkar-git&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkatkar-git" /> </p>
 
----
-
 ## 💻 About Me
 - 🔭 I’m currently focused on **System Design and Development Skills**.
 - 🌱 Currently sharpening my knowledge of **Data Structures & Algorithms**.
