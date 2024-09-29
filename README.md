@@ -13,97 +13,50 @@
 
 ---
 
-### 💻 About Me
+## 💻 About Me
 - 🔭 I’m currently focused on **System Design and Development Skills**.
 - 🌱 Currently sharpening my knowledge of **Data Structures & Algorithms**.
 - 💬 Feel free to ask me about **Java (Core and Advanced)**, **Spring Framework**, **Microservices Architecture**, **RESTful APIs**, and **Database Management (SQL/NoSQL)**.
 - ⚡ Fun fact: **I’ve probably spent more time debugging than binge-watching Netflix (it’s a close call though!).**
 
----
+## 🤝 Connect with Me
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/aniketkatkar/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-aniketkatkar" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp; <!-- Adding space -->
-  <a href="mailto:aniketkatkar73@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email-aniketkatkar" height="30" width="40" />
-  </a>
-</p>
+![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 
----
+## 💪 Skills
 
-### 💻 Programming Languages
-<div align="center" style="background-color: #1f1f1f; color: #ffffff; padding: 10px; border-radius: 10px;">
-  <p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a> 
-    &nbsp;&nbsp; <!-- Adding space -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a> 
-  </p>
-</div>
-&nbsp;&nbsp; <!-- Adding space -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkatkar-git&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="aniketkatkar-git" style="max-width: 100%; height: auto;" />
-</p>
+#### Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
-### 🗄️ Databases
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp; <!-- Adding space -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  &nbsp;&nbsp; <!-- Adding space -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp; <!-- Adding space -->
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
+#### Database
 
----
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 
-### 🛠️ Tools
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> 
-  &nbsp;&nbsp; <!-- Adding space -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp; <!-- Adding space -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp; <!-- Adding space -->
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp; <!-- Adding space -->
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp; <!-- Adding space -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
-</p>
+#### Tools and Technologies
 
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![SOAP](https://img.shields.io/badge/SOAP-0072C6?style=for-the-badge&logo=soap&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
-### 📈 LeetCode Stats
+#### IDEs
+
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+
+## 📈 LeetCode Stats
 <p align="center" style="color: #ffffff;">
   <img src="https://leetcard.jacoblin.cool/aniketkatkar?ext=heatmap" alt="LeetCode Stats" style="max-width: 100%; height: auto;" />
 </p>
