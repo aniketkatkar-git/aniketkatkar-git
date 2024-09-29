@@ -21,7 +21,9 @@
 ## 🤝 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketkatkar73@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketkatkar)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketkatkar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aniketkatkar/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5E9B3A?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aniketkatkar/)&nbsp;
 
 ## 💪 Skills
 
@@ -54,6 +56,19 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+
+## 📊 GitHub Statistics
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkatkar-git&layout=compact&theme=blueberry&bg_color=121212&text_color=ffffff&hide_border=true" alt="Most Used Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=aniketkatkar-git&show_icons=true&theme=blueberry&hide_border=true&bg_color=121212&text_color=ffffff&icon_color=1976D2&title_color=1976D2" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
     Made with ❤️ by <a href="https://www.linkedin.com/in/aniketkatkar" target="_blank">Aniket Katkar</a>
