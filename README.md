@@ -2,8 +2,9 @@
   <img src="https://camo.githubusercontent.com/c24b86c234ef154ad8b0a621713ffda5e56e2b1190171a2b6ef2139621e71c14/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313639303033343935363534362f31303163313639342d376538372d343538652d616664352d6162363563343863343638652e676966"/>
 </div>
 
-<h1 align="center" style="color: #ffffff;"><👋 Hello, World!/> </h1>
-<h3 align="center" style="color: #ffffff;">I'm Aniket Katkar, a passionate Backend Developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Aniket+here!%2F%3E" alt="Typing SVG" />
+</div>
 
 <p align="left" style="color: #ffffff;"> <img src="https://komarev.com/ghpvc/?username=aniketkatkar-git&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkatkar-git" /> </p>
 
