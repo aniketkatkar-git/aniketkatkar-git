@@ -6,10 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Aniket+here!%2F%3E" alt="Typing SVG" />
 </div>
 
+![Followers](https://img.shields.io/github/followers/aniketkatkar-git?label=Followers)
 [![GitHub stars](https://img.shields.io/github/stars/aniketkatkar-git/aniketkatkar-git.svg)](https://github.com/aniketkatkar-git/aniketkatkar-git/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/aniketkatkar-git/aniketkatkar-git.svg?color=blue)](https://github.com/aniketkatkar-git/aniketkatkar-git/network)
 [![GitHub contributors](https://img.shields.io/github/contributors/aniketkatkar-git/aniketkatkar-git.svg?color=blue)](https://github.com/aniketkatkar-git/aniketkatkar-git/graphs/contributors)
-<p align="left" style="color: #ffffff;"> <img src="https://komarev.com/ghpvc/?username=aniketkatkar-git&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkatkar-git" /> </p>
+<p align="left" style="color: #ffffff;"> <img src="https://komarev.com/ghpvc/?username=aniketkatkar-git&label=Visitors&color=0e75b6&style=flat" alt="aniketkatkar-git" /> </p>
 
 ## 💻 About Me
 - 🔭 I’m currently focused on **System Design and Development Skills**.
